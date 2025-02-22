@@ -7,4 +7,4 @@ The Individual Physical Proficiency Test (IPPT) is an annual fitness assessment 
 
 Participants earn points based on their performance in each station, with scores varying by age. The final IPPT score is the sum of points from all three stations, determining whether they pass or fail. High achievers are rewarded with monetary incentives, categorized into Pass, Pass with Incentive, Silver, and Gold awards, encouraging soldiers to maintain peak physical fitness.
 
-This project aims to use the data to determinea soldier’s IPPT score and award.
+This project aims to use the data to determine a soldier’s IPPT score and award.
